@@ -11,4 +11,4 @@ Clone the repository: git clone https://github.com/paraspatil11/TO-DO-list.git<b
 Install the dependencies: npm install<br>
 Start the development server: npm run dev
 <br>
-Stay Organized with Our TO-DO List: https://paraspatil11.github.io/TO-DO-list/
+Stay Organized with Our TO-DO List Bookmark This Link: https://paraspatil11.github.io/TO-DO-list/
